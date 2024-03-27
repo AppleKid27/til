@@ -1,0 +1,5 @@
+Publiserの型を消すことができる
+
+eraseToAnyPublisher
+
+メソッドの戻り値の型の指定で活躍
