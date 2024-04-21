@@ -1,0 +1,1 @@
+Edit → Format → Spelling and Grammar → Check Spelling While Typing
